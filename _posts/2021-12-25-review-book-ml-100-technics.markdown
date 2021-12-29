@@ -2,7 +2,7 @@
 layout: post  
 title: "[리뷰] 파이썬 머신러닝 실무 테크닉 100"  
 subtitle: "100가지 실습 예제로 배우는 머신러닝"  
-categories: review  
+categories: notes
 tags: review book 머신러닝 실무 테크닉 100가지 예제 데이터 분석 최적화 이미지인식 자연어처리 시각화 전처리 평가 검증 전개 대책       
 comments: true  
 header-img: img/review/review-book-ml-100-technics-1.png
