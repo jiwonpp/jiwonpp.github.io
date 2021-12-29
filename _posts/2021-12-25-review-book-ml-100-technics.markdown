@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 ---
 ---  
 layout: post  
@@ -11,7 +11,7 @@ comments: true
 header-img: img/review/review-book-ml-100-technics-1.png
 ---  
   
-> 어디 한번 수정해보자
+> 어디 한번 수정해보자222
 
 ![표지](https://theorydb.github.io/assets/img/review/review-book-ml-100-technics-1.png)  
 
