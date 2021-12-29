@@ -1,6 +1,3 @@
----
-published: false
----
 ---  
 layout: post  
 title: "[리뷰] 파이썬 머신러닝 실무 테크닉 100"  
