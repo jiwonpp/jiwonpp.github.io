@@ -1,0 +1,67 @@
+Oversampling techniques for classification problems
+https://towardsdatascience.com/7-over-sampling-techniques-to-handle-imbalanced-data-ec51c8db349f
+
+
+1. Random Over Sampling
+- 개수가 더 적은 클래스 데이터를 복제
+- 장) data에 대한 information을 잃지 않음
+- 단) 데이터가 중복되기 때문이 overfitting의 위험이 있음
+
+
+package ROSE (Random Over Sampling Examples)
+new_data <- ROSE (Chance.of.Admit~, data=admission, seed=123)$admission
+
+
+
+2. Smote
+Random oversampling이 overfitting을 발생할 수 ㅇㅆ음. 그 문제를 해결해보자
+SMOTE = Synthetic Minority Oversampling Technique
+새로운 synthetic sample을 만들어서 클래스의 균형을 맞춤
+분류 개수가 적은 쪽의 데이터를 sampling해서 이 sample의 knn을 찾음
+현재 샘플과 k개 이웃의 거리를 구하고
+이 거리에 0~1 값을 곱해서 원래 샘플에 더함
+-> new 데이터! 결국 주변 이웃들과 비슷하게 약간씩 이동시키는 것
+
+k-neares neighbor 알고리즘 활용
+nearest neighbor의 feature vector를 찾고
+
+package DMwR2 (기본이 not available)
+DMwR 다운받으려고 devtools 설치하는데 시간이 너무 오래걸림... ADP 시험에서는 못 쓰겠다. 
+> library(devtools)
+install_github("Luis Torgo/DMwR")
+https://community.rstudio.com/t/downloading-a-package-that-has-been-removed-from-cran/107479
+
+SMOTE()
+DMwR::SMOTE(
+  form,  # 모델 포뮬러
+  data,  # 포뮬러를 적용할 데이터
+  perc.over=200,  # 적은 쪽의 데이터를 얼마나 추가로 샘플링해야 하는지
+  k=5,            # 고려할 최근접 이웃의 수
+  # 적은 쪽의 데이터를 추가로 샘플링할 때 각 샘플에 대응해서 많은 쪽의 데이터를
+  # 얼마나 샘플링할지 지정
+  perc.under=200
+)
+반환 값은 SMOTE된 결과
+
+> newData <- SMOTE(Species ~ ., data, perc.over = 600, perc.under=100)
+
+
+3. BorderLine Smote
+- major clas 데이터 범위에 outlier가 있으면 문제...?]
+
+borderline smote 가 해결해줌
+경계선 근처의 minority sample만 oversample하는 방식
+https://sci2s.ugr.es/keel/keel-dataset/pdfs/2005-Han-LNCS.pdf
+
+
+4. KMeans Smote
+- k-means clustering algorithm으로 데이터 clsutering
+- minority class sample이 많은 clsuter들을 선택
+- minority class sample이 sparsely distributed 된 cluster에 synthetic sample을 더 많이 할당
+
+reading materials: 
+https://run.unl.pt/bitstream/10362/31042/1/TAA0010.pdf
+
+SVM Smote
+ADASYN
+Smote-NC
