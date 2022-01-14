@@ -4,12 +4,13 @@
   -webkit-text-size-adjust: 100%;
   color: #333;
   line-height: 3;
-
   font-size: 16px;
 
   h1,
   h2 {
     margin-top: 32px;
+    font-weight: 800;
+
   }
 
   hr {
@@ -75,7 +76,7 @@
   }
 
   code.highlighter-rouge {
-    background-color: #FFFF00;
+    background-color:$light;
     color: $dark;
     border-radius: 10px;
     margin: 0;
