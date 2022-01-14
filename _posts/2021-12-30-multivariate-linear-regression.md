@@ -10,7 +10,7 @@ description: 다중선형회귀를 이용해 미국 King County의 집값에 영
 ## Introduction
 ---
 **Dataset: House Sales in King County, USA, kc_house_data.csv**
-https://www.kaggle.com/harlfoxem/housesalesprediction
+[https://www.kaggle.com/harlfoxem/housesalesprediction](https://www.kaggle.com/harlfoxem/housesalesprediction)
 
 House sales 데이터는 미국 King County에서 2014년 5월부터 2015년 5월까지 거래된 주택에 대한 정보를 나타냅니다. 각 변수에 대한 설명은 Kaggle 페이지의 Column 항목을 통해 확인할 수 있습니다. 이 중 세 번째 항목인 price가 MLR 모형의 target variable입니다.
 
