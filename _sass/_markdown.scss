@@ -36,28 +36,6 @@
     }
   }
 
-  a:not(.btn):not([class^="carousel-"]):not([class^="list-"]):not(.no-underline) {
-    display: inline-block;
-    text-decoration: none;
-
-    &:hover {
-      color: $primary;
-    }
-
-    &::after {
-      content: "";
-      display: block;
-      height: 0.15em;
-      margin-top: -0.15em;
-      width: 0;
-      background: $primary;
-      transition: width 0.35s;
-    }
-
-    &:hover::after {
-      width: 100%;
-    }
-  }
 
   pre {
     background: $light;
@@ -134,4 +112,21 @@
 .markdown-body a:active,
 .markdown-body a:hover {
   outline-width: 0;
+}
+
+.markdown-body code {
+  color: #E53A40;
+  padding: 0;
+  padding-top: 0.2em;
+  padding-bottom: 0.2em;
+  margin: 0;
+  font-size: 85%;
+  background-color: rgba(0,0,0,0.04);
+  border-radius: 3px;
+}
+
+.markdown-body code:before,
+.markdown-body code:after {
+  letter-spacing: -0.2em;
+  content: "\00a0";
 }
