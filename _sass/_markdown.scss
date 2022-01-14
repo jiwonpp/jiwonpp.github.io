@@ -5,7 +5,7 @@
   }
 
   hr {
-    background: $secondary;
+    background: #dddddd;
   }
 
   img:not(.emoji) {
@@ -69,13 +69,13 @@
   code.highlighter-rouge {
     background-color: $light;
     color: $dark;
-    border-radius: 3px;
+    border-radius: 10px;
     margin: 0;
     padding: 0.2em 0.65em;
   }
 
   blockquote {
-    border-left: 0.25em solid #000000;
+    border-left: 0.25em solid #ddd;
     color: $secondary;
     padding: 0 1em;
   }
