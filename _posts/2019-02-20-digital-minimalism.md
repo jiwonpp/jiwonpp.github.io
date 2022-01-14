@@ -6,7 +6,8 @@ color:
 description: Minimalism is the art of knowing how much is just enough. Digital minimalism applies this idea to our personal technology. It’s the key to living a focused life in an increasingly noisy world.
 ---
 
-Source: [Nikhil Thota](https://medium.com/@nikhilthota/digital-minimalism-ac083064b4e4)
+테스트로 한글
+가나다라마바사 아자차카타파하
 
 A few months ago I was offered (and have since accepted) a full time offer to work at Facebook in San Francisco and in that time I have been reflecting on my own usage of social media and the amount of value it has added to my life.
 
