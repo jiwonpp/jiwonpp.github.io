@@ -3,18 +3,23 @@
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
   line-height: 1.7;
-  font-size: 17px;
+  font-size: 16px;
   word-break: break-all;
 
   h1,
   h2 {
-    margin-top: 32px;
+    margin-top: 28px;
     font-weight: 800;
 
   }
   
   h1 {
-    font-size: 35px;
+    font-size: 30px;
+  }
+  
+  h3 {
+    font-size: 22px;
+    font-weight: 600;
   }
 
   hr {
