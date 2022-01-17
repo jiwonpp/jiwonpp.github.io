@@ -1,8 +1,8 @@
 ﻿---
-title: MLR(다중선형회귀)로 House price 예측하기
+title: "[R] Multiple Linear Regression으로 House price 예측하기"
 tags: [데이터분석, 머신러닝, MLR, 다중선형회귀]
 style: 
-color: 
+color: secondary
 description: 다중선형회귀를 이용해 미국 King County의 집값에 영향을 미치는 변수를 분석하고, 집값을 예측하는 모형을 구축합니다.
 ---
 

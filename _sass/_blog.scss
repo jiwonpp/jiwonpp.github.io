@@ -5,7 +5,7 @@
 .post.card {
   border-radius: $rounded-borders;
   text-decoration: none !important;
-  padding: 5px;
+  padding: 2px;
   height: 100%;
 
   .card-footer {
@@ -16,7 +16,7 @@
 }
 
 .post-metadata {
-  font-size: 14px;
+  font-size: 16px;
   margin-top: -6px;
 
   .tag:hover {
