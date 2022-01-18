@@ -3,7 +3,7 @@ title: "[R] Logistic Regression으로 Graduate Admission 예측하기"
 tags: [데이터분석, 머신러닝, Logistic regression]
 style: 
 color: secondary
-description: 대학원 지원자의 정보 등을 기반으로 지원자가 합격 확률을 예측하는 logistic regression 모델을 구축합니다. 
+description: 대학원 지원자의 정보 등을 기반으로 지원자가 합격 확률을 예측하는 logistic regression 모델을 구축합니다.
 ---
 
 
