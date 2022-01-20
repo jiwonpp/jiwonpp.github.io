@@ -8,18 +8,20 @@ html {
   min-height: 100%;
 }
 
+
 body {
-  margin: 0;
+  margin: 0 0 0 0;
   padding: 0;
   color: $text-color;
   font-family: $global-font-family;
-  line-height: 1.7;
+  line-height: 1.8;
 
   &.overflow--hidden {
     /* when primary navigation is visible, the content in the background won't scroll */
     overflow: hidden;
   }
 }
+
 
 h1,
 h2,
@@ -28,7 +30,7 @@ h4,
 h5,
 h6 {
   margin: 2em 0 0.5em;
-  line-height: 1.2;
+  line-height: 1.7;
   font-family: $header-font-family;
   font-weight: bold;
 }
@@ -47,6 +49,8 @@ h3 {
 }
 
 h4 {
+  margin-top: 1.5em;
+  margin-bottom: 0;
   font-size: $h-size-4;
 }
 
@@ -56,6 +60,7 @@ h5 {
 
 h6 {
   font-size: $h-size-6;
+
 }
 
 small,
@@ -64,12 +69,14 @@ small,
 }
 
 p {
-  margin-bottom: 1.3em;
+  margin-bottom: 0 ;
+  margin-top: 0 ;
 }
 
 u,
 ins {
   text-decoration: none;
+  margin-top: 0;
   border-bottom: 1px solid $text-color;
   a {
     color: inherit;
@@ -91,6 +98,8 @@ dl,
 figure,
 table,
 fieldset {
+  margin-top: 0;
+  margin-bottom: 1em;
   orphans: 3;
   widows: 3;
 }
@@ -191,12 +200,12 @@ hr {
 
 ul li,
 ol li {
-  margin-bottom: 0.5em;
+  margin-bottom: 0em;
 }
 
 li ul,
 li ol {
-  margin-top: 0.5em;
+  margin-top: 0em;
 }
 
 /*
