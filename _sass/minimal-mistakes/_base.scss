@@ -119,7 +119,6 @@ blockquote {
   margin: 2em 1em 2em 0;
   padding-left: 1em;
   padding-right: 1em;
-  font-style: italic;
   border-left: 0.25em solid $primary-color;
 
   cite {
@@ -146,6 +145,7 @@ a {
   &:hover {
     color: $link-color-hover;
     outline: 0;
+
   }
 }
 
@@ -177,6 +177,7 @@ td > code {
   padding-top: 0.1rem;
   padding-bottom: 0.1rem;
   font-size: 0.8em;
+  color: #E53A40;
   background: $code-background-color;
   border-radius: $border-radius;
 

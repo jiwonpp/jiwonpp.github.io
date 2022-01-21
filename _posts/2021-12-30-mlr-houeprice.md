@@ -1,20 +1,19 @@
 ﻿--- 
-title: "MLR(다중선형회귀)로 House price 예측하기"  
+title: "[R] Multiple Linear Regression으로 부동산 가격 예측하기"  
 excerpt: "다중선형회귀 모델을 구축해 집값에 영향을 미치는 변수를 파악하고 집 값을 예측합니다."
 categories: datascience
 tags: 데이터분석 머신러닝 MLR 다중선형회귀       
 ---  
 
 ## Introduction
----
 **Dataset: House Sales in King County, USA, kc_house_data.csv**
-https://www.kaggle.com/harlfoxem/housesalesprediction
+<br>
+[Kaggle dataset](https://www.kaggle.com/harlfoxem/housesalesprediction)
 
 House sales 데이터는 미국 King County에서 2014년 5월부터 2015년 5월까지 거래된 주택에 대한 정보를 나타냅니다. 각 변수에 대한 설명은 Kaggle 페이지의 Column 항목을 통해 확인할 수 있습니다. 이 중 세 번째 항목인 price가 MLR 모형의 target variable입니다.
 
 
 ## 1. EDA
----
 #### 1-1 모델 구축에 필요하지 않은 변수
 Id, date, zipcode 변수는 MLR 모형 구축을 위해 필요하지 않습니다. 
 - ID는 서로 다른 집을 식별하는 코드일 뿐 의미가 없습니다. 
@@ -124,7 +123,6 @@ house_val_data <- house1[-house_trn_idx,]
 ```
 
 ## Modeling
----
 모든 변수를 사용하여 MLR 모델을 구축했습니다. 
 ```r
 # Train the MLR

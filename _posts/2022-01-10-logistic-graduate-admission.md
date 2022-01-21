@@ -1,5 +1,5 @@
 ﻿---
-title: "Logistic Regression으로 Graduate Admission 예측하기"  
+title: "[R] Logistic Regression으로 대학원 합격률 예측하기"  
 excerpt: "Logistic Regression 모델을 구축해 대학원 지원자가 합격할 확률을 예측합니다."
 categories: datascience
 tags: 데이터분석 머신러닝 Logisticregression
@@ -10,7 +10,8 @@ header-img:
 # 0. Introduction
 ---
 **Dataset: Graduate Admission 2, Admission_Predict.csv**
-https://www.kaggle.com/mohansacharya/graduate-admissions
+<br>
+[Kaggle Dataset](https://www.kaggle.com/mohansacharya/graduate-admissions)
 
 이 데이터셋은 대학원 지원자의 정보(GRE, TOEFL 점수 등)와 대학의 등급을 기반으로 각 지원자가 합격할 확률(Chance of Admit)을 기록한 데이터입니다. 
 변수를 살펴보면:
