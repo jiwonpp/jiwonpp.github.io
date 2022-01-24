@@ -8,7 +8,7 @@ tags: DecisionTree 의사결정나무 Tree Rpart Party Evtree
 # 0. Introduction
 ---
 
-**Dataset: Heart Disease UCI** [(UCI 데이터)]([https://archive.ics.uci.edu/ml/datasets/heart+disease](https://archive.ics.uci.edu/ml/datasets/heart+disease))
+**Dataset: Heart Disease UCI** [UCI 데이터]([https://archive.ics.uci.edu/ml/datasets/heart+disease](https://archive.ics.uci.edu/ml/datasets/heart+disease))
 
 이 데이터셋은 총 303명의 환자의 의료 정보와 심장병 발병 여부를 담고 있는 데이터셋입니다.  총 13개의 입력변수와 1개의 타겟변수로 구성되어 있습니다. 변수를 살펴보면:
 
