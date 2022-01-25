@@ -506,7 +506,6 @@
 .toc {
   font-family: $sans-serif-narrow;
   color: $gray;
-  background-color: $background-color;
   border: 1px solid $border-color;
   border-radius: $border-radius;
   -webkit-box-shadow: $box-shadow;
@@ -533,6 +532,7 @@
   list-style: none;
   font-size: $type-size-6;
 
+
   @include breakpoint($large) {
     font-size: $type-size-7;
   }
@@ -547,6 +547,7 @@
 
     &:hover {
       color: $text-color;
+
     }
   }
 
