@@ -5,6 +5,9 @@ categories: datascience
 tags: DecisionTree 의사결정나무 Tree Rpart Party Evtree
 toc: true
 toc_sticky: true
+header:
+  overlay_image: /assets/img/post_img/220124_dt2_plot1.png
+  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
 ---  
 
 # 0. Introduction
