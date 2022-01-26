@@ -15,8 +15,6 @@ body {
   color: $text-color;
   font-family: $global-font-family;
   line-height: 1.8;
-  word-spacing: 1.8px;
-  letter-spacing: 0.1px;
 
   &.overflow--hidden {
     /* when primary navigation is visible, the content in the background won't scroll */
