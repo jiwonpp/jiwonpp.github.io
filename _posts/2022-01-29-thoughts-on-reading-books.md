@@ -12,7 +12,7 @@ tags: essay 독서 책
 <br>
 
 
-![book]([https://jiwonpp.github.io/assets/img/post_img/220129_bookjpg](https://jiwonpp.github.io/assets/img/post_img/220128_datarian.jpg))
+![book](https://jiwonpp.github.io/assets/img/post_img/220129_book.jpg)
 
 <br>
 
