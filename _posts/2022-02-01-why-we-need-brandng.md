@@ -3,9 +3,6 @@ title: "[책] 그래서 브랜딩이 필요합니다 - 29cm와 스타일쉐어�
 excerpt: " "
 categories: bookreview
 tags: 그래서브랜딩이필요합니다 책리뷰 북리뷰 브랜딩 브랜드
-header:
-  overlay_image: /assets/img/post_img/220201_bookcover.jpg
-  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
 ---
 
 서점에 가면 브랜드, 브랜딩이 제목에 들어간 책이 참 많다. 종류도 기업의 브랜딩 전략을 다룬 책부터 ‘오늘부터 나는 브랜드가 되기로 했다’처럼 개인의 브랜딩 전략을 설명하는 책까지 다양하다. 그만큼 브랜딩에 대한 관심이 뜨거운 걸 알 수 있다. 
