@@ -12,7 +12,7 @@ tags: 그래서브랜딩이필요합니다 책리뷰 북리뷰 브랜딩 브랜�
 
 <br>
 
-![book_cover](https://jiwonpp.github.io/assets/img/post_img/220201_bookcover.jpg){: .align-center}
+![book_cover](https://jiwonpp.github.io/assets/img/post_img/220201_bookcover2.jpg){: .align-center}
 
 <br>
 
