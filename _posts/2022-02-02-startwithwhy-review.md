@@ -31,6 +31,7 @@ Simon Sinek은 유튜버 알간지 영상을 통해서 알게 됐다.
 지난 달부터 틈틈이 읽어서 다 읽었다. 책 내용을 정리하면: 
 
 - **Inspiring leader는 Golden Circle을 이해하고 있으며 `Why` - `How` - `What`의 순서로 생각하고, 행동하고, 소통한다.** <br> ![goldencircle](https://jiwonpp.github.io/assets/img/post_img/220202_goldencircle.jpg)
+
 golden circle
 {: style="text-align: center; font-size:0.7em;"}
 
