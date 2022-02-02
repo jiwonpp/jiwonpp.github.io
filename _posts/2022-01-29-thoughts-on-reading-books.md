@@ -1,5 +1,5 @@
 ﻿---
-title: "2년 동안 책을 읽으면서 느낀 점"
+title: "2년 동안 책을 읽고 느낀 점"
 excerpt: " "
 categories: essay
 tags: essay 독서 책

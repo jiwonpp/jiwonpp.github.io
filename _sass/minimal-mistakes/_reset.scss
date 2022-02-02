@@ -12,6 +12,7 @@ html {
   word-spacing: 1.8px;
   letter-spacing: 0.1px;
 
+
   @include breakpoint($medium) {
     font-size: 17px;
   }
