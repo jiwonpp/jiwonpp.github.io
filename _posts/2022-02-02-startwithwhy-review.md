@@ -13,14 +13,14 @@ tags: simonsinek startwithwhy
 
 Simon Sinek은 유튜버 알간지 영상을 통해서 알게 됐다. 
 
-{% include video id="[TRUgdnZhVYI](https://www.youtube.com/watch?v=TRUgdnZhVYI)" provider="youtube" %}
+{% include video id="TRUgdnZhVYI" provider="youtube" %}
 
 영상을 보고 Simon Sinek의 Golden Circle 이론에 흥미가 생겨 그가 쓴 Start with why라는 책을 사야겠다고 마음먹었다. 근데 책 표지가 어쩐지 익숙하다 싶었더니.. 1년쯤 전에 읽으려고 사놓고 안 읽은 책이었다! 😲 
 
 <br>
 
 
-![bookcover](https://jiwonpp.github.io/assets/img/post_img/220202_bookcover)
+![bookcover](https://jiwonpp.github.io/assets/img/post_img/220202_bookcover.jpg)
 
 강렬한 빨간 글씨
 {: style="text-align: center; font-size:0.7em;"}
@@ -31,7 +31,7 @@ Simon Sinek은 유튜버 알간지 영상을 통해서 알게 됐다.
 지난 달부터 틈틈이 읽어서 다 읽었다. 책 내용을 정리하면: 
 
 - Inspiring leader는 Golden Circle을 이해하고 있으며 `Why` - `How` - `What`의 순서로 생각하고, 행동하고, 소통한다.
-- ![goldencircle]
+- ![goldencircle](https://jiwonpp.github.io/assets/img/post_img/220202_goldencircle.jpg)
 - Why가 명확하고 How와 What이 Why에 맞게 Align되어야 loyal employee and customer가 생긴다. (=팬이 생긴다)
 - 모든 고객에게 집중할 게 아니라 회사의 Why에 공감하는 고객에게 집중해야 한다.
 
@@ -47,7 +47,7 @@ Simon Sinek은 유튜버 알간지 영상을 통해서 알게 됐다.
 
 여기서 아이패드 병이 생각났다. 
 
-![ipad](https://jiwonpp.github.io/assets/img/post_img/220202_ipad)
+![ipad](https://jiwonpp.github.io/assets/img/post_img/220202_ipad.jpg)
 
 아이패드 병은 진짜 병은 아니고 갑자기 아이패드가 너무 사고싶어지는 증상을 말한다. 나도 아이패드 병에 걸렸고, 뭐에 홀린듯이 아이패드 프로를 사서 완치됐다. 사기 전에는 아이패드로 그림도 그리고, 일기도 쓰고, PDF 보면서 공부도 할거라고 다짐했지만 막상 사고나면 유튜브를 제일 많이 본다. 
 
@@ -58,7 +58,7 @@ Simon Sinek은 유튜버 알간지 영상을 통해서 알게 됐다.
 
 비슷한 예로 티셔츠가 있을 수 있지 않을까. 일하는 방식을 실험하는 모빌스 그룹은 자신들이 티셔츠가 아니라 메시지를 판다고 한다. 
 
-![tshirt](https://jiwonpp.github.io/assets/img/post_img/220202_tshirt)
+![tshirt](https://jiwonpp.github.io/assets/img/post_img/220202_tshirt.png)
 
 @mobetterworks.com
 {: style="text-align: center; font-size:0.7em;"}
