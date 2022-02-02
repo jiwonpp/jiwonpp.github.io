@@ -31,6 +31,9 @@ Simon Sinek은 유튜버 알간지 영상을 통해서 알게 됐다.
 지난 달부터 틈틈이 읽어서 다 읽었다. 책 내용을 정리하면: 
 
 - **Inspiring leader는 Golden Circle을 이해하고 있으며 `Why` - `How` - `What`의 순서로 생각하고, 행동하고, 소통한다.** <br> ![goldencircle](https://jiwonpp.github.io/assets/img/post_img/220202_goldencircle.jpg)
+golden circle
+{: style="text-align: center; font-size:0.7em;"}
+
 - **Why가 명확하고 How와 What이 Why에 맞게 Align되어야 loyal employee and customer가 생긴다. (=팬이 생긴다)**
 - **모든 고객에게 집중할 게 아니라 회사의 Why에 공감하는 고객에게 집중해야 한다.**
 
@@ -48,7 +51,10 @@ Simon Sinek은 유튜버 알간지 영상을 통해서 알게 됐다.
 
 여기서 아이패드 병이 생각났다. 
 
-![ipad](https://jiwonpp.github.io/assets/img/post_img/220202_ipad.jpg)
+![ipad](https://jiwonpp.github.io/assets/img/post_img/220202_ipad.jpeg)
+
+아이패드 병
+{: style="text-align: center; font-size:0.7em;"}
 
 아이패드 병은 진짜 병은 아니고 갑자기 아이패드가 너무 사고싶어지는 증상을 말한다. 나도 아이패드 병에 걸렸고, 뭐에 홀린듯이 아이패드 프로를 사서 완치됐다. 사기 전에는 아이패드로 그림도 그리고, 일기도 쓰고, PDF 보면서 공부도 할거라고 다짐했지만 막상 사고나면 유튜브를 제일 많이 본다. 
 
