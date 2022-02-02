@@ -30,10 +30,9 @@ Simon Sinek은 유튜버 알간지 영상을 통해서 알게 됐다.
 
 지난 달부터 틈틈이 읽어서 다 읽었다. 책 내용을 정리하면: 
 
-- Inspiring leader는 Golden Circle을 이해하고 있으며 `Why` - `How` - `What`의 순서로 생각하고, 행동하고, 소통한다.
-- ![goldencircle](https://jiwonpp.github.io/assets/img/post_img/220202_goldencircle.jpg)
-- Why가 명확하고 How와 What이 Why에 맞게 Align되어야 loyal employee and customer가 생긴다. (=팬이 생긴다)
-- 모든 고객에게 집중할 게 아니라 회사의 Why에 공감하는 고객에게 집중해야 한다.
+- **Inspiring leader는 Golden Circle을 이해하고 있으며 `Why` - `How` - `What`의 순서로 생각하고, 행동하고, 소통한다.** <br> ![goldencircle](https://jiwonpp.github.io/assets/img/post_img/220202_goldencircle.jpg)
+- **Why가 명확하고 How와 What이 Why에 맞게 Align되어야 loyal employee and customer가 생긴다. (=팬이 생긴다)**
+- **모든 고객에게 집중할 게 아니라 회사의 Why에 공감하는 고객에게 집중해야 한다.**
 
 <br>
 
@@ -44,6 +43,8 @@ Simon Sinek은 유튜버 알간지 영상을 통해서 알게 됐다.
 
 
 저자는 Apple을 예시로 많이 사용하는데, Apple 팬으로서 약간 뿌듯했다. 예전에는 내가 왜 Apple을 좋아하는지 ‘감성’말고는 표현할 방법을 몰랐다. 그런데 이책을 읽으니까 내가 Apple의 Why(think different, challenge status quo)에 공감하기 때문에 Apple 제품을 구매한다는 걸 알게됐다. 
+
+<br>
 
 여기서 아이패드 병이 생각났다. 
 
@@ -57,6 +58,8 @@ Simon Sinek은 유튜버 알간지 영상을 통해서 알게 됐다.
 
 
 비슷한 예로 티셔츠가 있을 수 있지 않을까. 일하는 방식을 실험하는 모빌스 그룹은 자신들이 티셔츠가 아니라 메시지를 판다고 한다. 
+
+<br>
 
 ![tshirt](https://jiwonpp.github.io/assets/img/post_img/220202_tshirt.png)
 
@@ -79,3 +82,5 @@ Simon Sinek은 유튜버 알간지 영상을 통해서 알게 됐다.
 <br>
 
 내가 마침 일에서 흥미를 잃었을 때 이 책을 읽어서 도움이 많이 됐다. 덕분에 내가 추구하는 Why는 무엇인지, How와 What은 무엇인지 고민하게 됐다. 당분간 지금까지 해 온 일을 되돌아보면서 전체를 관통하는 Why를 찾아야겠다. 며칠만에 찾아질 건 아닌 것 같고 시행착오를 거쳐야 할 것 같다. 아무튼 그렇게 찾은 Why에 맞는 What을 하나씩 실행하다보면 그게 나만의 스토리가 될거라 믿는다.
+
+<br>
